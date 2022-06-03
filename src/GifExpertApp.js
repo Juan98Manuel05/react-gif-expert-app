@@ -14,7 +14,7 @@ const GifExpertApp = () => {
 
     return (
         <>
-            <h2> Gif Expert App </h2>            
+            <h2> Test update title with SSH </h2>            
             <AddCategory setCategories={ setCategories }/>
             <hr/>
 
